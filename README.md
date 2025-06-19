@@ -1,2 +1,8 @@
-# phantomforgex
-AI-powered brand kits. Barter-ready. Built from the shadows.
+# PhantomForge
+
+AI-powered brand kits for barter or burn.
+
+Designs. Words. Signal packages.  
+Offered in trade for tech, tools, or talent.
+
+Everything here was built with neural assistance, digital instinct, and precision intent.
